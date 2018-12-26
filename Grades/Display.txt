@@ -1,0 +1,3 @@
+ID: BT16CSE006	Name:Tushita	Last:Singh	
+ID: BT16CSE012	Name:Rinisha	Last:Gedam	
+ID: BT16CSE018	Name:Prachita	Last:Kotanagle	
